@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">JobFinder</string>
+    <string name="action_search">Search</string>
+    <string name="attributions">Attributions</string>
+    <string name="formatted_place_data">
+        Name: %1$s\nAddress: %2$s\nPhone: %3$s\nWebsite: %4$s\nRating: %5$s\nId: %6$s\n
+    </string>
+    <string name="PLEASE_WAIT">Please Wait</string>
+    <string name="JOB_TITLE">Job Title</string>
+    <string name="COMPANY_NAME">Company Name</string>
+    <string name="LOCATION">Location</string>
+    <string name="DATE">Date</string>
+</resources>

@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.truiton.placeapiautocompletewidget.MainActivity">
+
+
+
+    <item android:id="@+id/action_search"
+        android:title="search"
+        android:icon="@drawable/ic_search"
+        app:showAsAction="always"
+        android:hint="Enter Tags"
+        android:orderInCategory="100"
+        app:actionViewClass="android.support.v7.widget.SearchView"
+
+        />
+</menu>
